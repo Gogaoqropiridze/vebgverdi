@@ -1,0 +1,26 @@
+div{
+    margin: 10PX;
+    border: 2px rgb(0, 0, 0);
+    font-size: 20PX;
+    height: 50PX;
+}
+
+#header{
+    background-color: rgb(0, 81, 255);
+}
+
+#sidebar{
+    background-color: aqua;
+    float: left;
+    width: 150px;
+}
+
+#main{
+    background-color: aqua;
+    height: 200px;
+    margin-left: 170px;
+}
+
+#footer{
+    background-color: aquamarine;
+}
